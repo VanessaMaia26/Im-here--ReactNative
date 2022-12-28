@@ -1,11 +1,13 @@
-# Application I'm here
-React Native - Android
+# Application I'm here 📱
+React Native - Android 📱
 
-Status: concluded
+Status: concluded ✅
 
 ## Description :
 
 React Native application using Expo Manager Workflow, thus developing the concepts of componentization, states, immutability, hooks and how React Native renders native interfaces. In addition to applying Typescript for adding static typing to the application.
+
+## Preview :
 
 ### Scripts :
 - start: "expo start",
